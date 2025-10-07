@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**FrancescoContinella/FrancescoContinella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Francesco Continella, a passionate developer focused on building innovative solutions.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Developing exciting projects and exploring new technologies
+- Contributing to open source communities
+- Building tools to solve real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Advanced software development practices
+- New programming languages and frameworks
+- Cloud technologies and DevOps
+
+### 👯 Let's collaborate
+I'm always interested in collaborating on interesting projects and ideas. Feel free to reach out!
+
+### 📫 How to reach me
+- GitHub: [@FrancescoContinella](https://github.com/FrancescoContinella)
+
+### ⚡ Fun fact
+I love exploring new technologies and sharing knowledge with the community!
