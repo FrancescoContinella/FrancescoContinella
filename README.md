@@ -4,18 +4,22 @@ I'm a Computer Science student at Sapienza University of Rome, with a strong int
 </p>
 
 <p align="center">
+  <style>
+    a:focus {
+      outline: none;
+    }
+    a img {
+      margin: 2px;
+    }
+  </style>
   <a href="https://youtu.be/oHg5SJYRHA0" title="YouTube">
-    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/>
-  </a>
+    <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/></a>
   <a href="https://letterboxd.com/Continella/">
-    <img alt="letterboxd" src="https://custom-icon-badges.demolab.com/badge/-letterboxd-488207?style=for-the-badge&logoColor=white&logo=letterboxd_logo"/>
-  </a>
+    <img alt="l" src="https://custom-icon-badges.demolab.com/badge/-letterboxd-488207?style=for-the-badge&logoColor=white&logo=letterboxd_logo"/></a>
   <a href="https://steamcommunity.com/id/EnergySLB/">
-    <img alt="steam"  src="https://custom-icon-badges.demolab.com/badge/-ᅠsteamᅠ-1155ba?style=for-the-badge&logo=steam_logo&logoColor=white"/>
-  </a> 
+    <img alt="s"  src="https://custom-icon-badges.demolab.com/badge/-ᅠsteamᅠ-1155ba?style=for-the-badge&logo=steam_logo&logoColor=white"/></a> 
   <a href="https://www.instagram.com/continella.francesco/">
-    <img alt="instagram"  src="https://custom-icon-badges.demolab.com/badge/-instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
