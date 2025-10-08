@@ -4,14 +4,7 @@ I'm a Computer Science student at Sapienza University of Rome, with a strong int
 </p>
 
 <p align="center">
-  <style>
-    a:focus {
-      outline: none;
-    }
-    a img {
-      margin: 2px;
-    }
-  </style>
+
   <a href="https://youtu.be/oHg5SJYRHA0" title="YouTube">
     <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/></a>
   <a href="https://letterboxd.com/Continella/">
