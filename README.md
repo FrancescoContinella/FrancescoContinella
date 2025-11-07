@@ -1,14 +1,13 @@
 # 🎮 Francesco Continella
-<div align="center">
-  
-  Computer Science student at Sapienza University of Rome.<br>
-  
-  Playing video games and watching films to relax and find inspiration.<br>
-
+<div align="center" style="font-family: Calibri;">
+  <h3>
+  Computer Science student at Sapienza University of Rome.</h3>
+  Playing video games and watching films to relax and find inspiration.
 </div>
 
-<p align="center">
+<br>
 
+<p align="center">
   <a href="https://youtu.be/oHg5SJYRHA0" title="YouTube">
     <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/></a>
   <a href="https://letterboxd.com/Continella/">
