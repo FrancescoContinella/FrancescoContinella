@@ -1,7 +1,11 @@
 # 🎮 Francesco Continella
-<p style="text-align: justify;">
-I'm a Computer Science student at Sapienza University of Rome, with a strong interest in software development, technological innovation, and problem-solving. In my spare time, I enjoy exploring emerging technologies, playing video games, and watching films as a way to relax and find inspiration.
-</p>
+<div align="center">
+  
+  Computer Science student at Sapienza University of Rome.<br>
+  
+  Playing video games and watching films to relax and find inspiration.<br>
+
+</div>
 
 <p align="center">
 
